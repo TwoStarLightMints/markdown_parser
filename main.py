@@ -13,4 +13,10 @@ for line in content:
 
         parsed.append(f"<h{final+1}>{line[final+2:]}</h{final+1}>")
 
+    elif line is "---" or line is "***" or line is "___":
+        parsed.append("<hr>")
+
+    else:
+        parsed.append(f"<p>{line}</p>")
+
 print(parsed)
