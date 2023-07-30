@@ -10,7 +10,7 @@ A basic markdown parser
 - [ ] Block Quotes
 - [ ] Lists
 - [ ] Code
-- [ ] Horizontal Rules
+- [X] Horizontal Rules
 - [ ] Links
 - [ ] Images
 - [ ] Escaping Characters
