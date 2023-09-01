@@ -3,14 +3,14 @@
 A basic markdown parser
 
 ## TODO:
-- [X] Headings
-- [X] Paragraphs
+- [ ] Headings
+- [ ] Paragraphs
 - [ ] Line Breaks
 - [ ] Emphasis
 - [ ] Block Quotes
 - [ ] Lists
 - [ ] Code
-- [X] Horizontal Rules
+- [ ] Horizontal Rules
 - [ ] Links
 - [ ] Images
 - [ ] Escaping Characters
